@@ -43,8 +43,12 @@ print
 # Build Instructions
 
 Use a 32bit version of GCC
+
 Install NASM
+
 Run `python langcompiler/__init__.py`
+
 Edit `make.bat` and replace `gcc` with the 32 bit version of gcc
+
 Run `make.bat`
 
