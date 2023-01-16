@@ -1,27 +1,4 @@
-class Jake{
-    John john =null
-    void Jake(){
-    }
-}
-class John{
-    int b = 50
-    int c = 51
-    void John(){
 
-    }
-
-}
-class A{
-    int a = 100
-    void A(){
-    }
-    void aify(int b){
-       this.a = b
-    }
-}
-void m(int a){
-    print(a)
-}
 int main(){
-    a.m(10, 100)
+    print(5)
 }

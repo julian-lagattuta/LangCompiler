@@ -1,5 +1,5 @@
 
-from langcompiler.syntaxtree import (
+from syntaxtree import (
     AST,
     Assignment,
     BinaryOp,
