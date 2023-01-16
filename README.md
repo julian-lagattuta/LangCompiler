@@ -41,6 +41,7 @@ Builtin functons:
 input
 print
 # Build Instructions
+
 Use a 32bit version of GCC
 Install NASM
 Run `python langcompiler/__init__.py`
