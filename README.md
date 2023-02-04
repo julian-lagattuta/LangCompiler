@@ -1,6 +1,6 @@
 
 # LangCompiler
-A compiler is a program that converts code into a runnable program. Written in Python from Scratch. Lexer, parser, and compiler that compiles my own programming language named “Lang” to Intel syntax 32-bit x86. I made  during the summer before sophomore year. An older version of Lang supported an interpreter. 
+Written in Python from scratch. Lexer, parser, and compiler that compiles my own programming language named “Lang” to Intel syntax 32-bit x86. I made  during the summer before sophomore year. An older version of Lang supported an interpreter. 
 
 
 There are Java style while loops. For loops look like this:
